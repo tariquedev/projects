@@ -4,12 +4,12 @@ To be continued....
 
 ## Live Link
 
-[City Local Biz](https://www.citylocalbiz.us/)
-[Find 2 Local](https://www.find2local.com/)
-[Pet Carel Lover](https://www.petcarelover.com/)
-[City Local Places](https://www.citylocalplaces.co.uk/)
-[Web Directory Hub](https://www.webdirectoryhub.com/)
-[Tuul Suite](https://tuulsuite.com)
+[City Local Biz](https://www.citylocalbiz.us/)<br/>
+[Find 2 Local](https://www.find2local.com/)<br/>
+[Pet Carel Lover](https://www.petcarelover.com/)<br/>
+[City Local Places](https://www.citylocalplaces.co.uk/)<br/>
+[Web Directory Hub](https://www.webdirectoryhub.com/)<br/>
+[Tuulsuite](https://tuulsuite.com)<br/>
 
 [1.1]: https://i.imgur.com/XWSHgPG.png (linkedIn)
 [2.1]: https://i.imgur.com/gQjZmIH.png (twitter)
