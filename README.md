@@ -16,16 +16,22 @@ To be continued....
 [3.1]: https://i.imgur.com/RNKLAHv.png (github)
 [4.1]: https://i.imgur.com/U7UzOeU.png (facebook)
 [5.1]: https://i.imgur.com/nvBin7c.png (Tarique Hasan)
+[6.1]: https://i.ibb.co/g7vmNY8/upwork.png (Upwork)
 
 [1]: https://www.linkedin.com/in/tarique-hasan
 [2]: https://www.twitter.com/tariquedev
 [3]: https://www.github.com/tariquedev
 [4]: https://www.facebook.com/Hasan157/
 [5]: https://www.tarique.dev
+[6]: https://www.upwork.com/freelancers/~012afee899c1545900
 
 ## Contributor
 
 [Tarique Hasan](https://www.tarique.dev)
+
+## Hire me
+
+[![alt text][6.1]][6]
 
 Follow me on
 
