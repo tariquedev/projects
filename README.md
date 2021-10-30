@@ -16,7 +16,7 @@ To be continued....
 [3.1]: https://i.imgur.com/RNKLAHv.png (github)
 [4.1]: https://i.imgur.com/U7UzOeU.png (facebook)
 [5.1]: https://i.imgur.com/nvBin7c.png (Tarique Hasan)
-[6.1]: https://i.ibb.co/g7vmNY8/upwork.png (Upwork)
+[6.1]: https://i.ibb.co/1syBxpQ/upwork.png (Upwork)
 
 [1]: https://www.linkedin.com/in/tarique-hasan
 [2]: https://www.twitter.com/tariquedev
