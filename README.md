@@ -8,7 +8,7 @@ To be continued....
 [City Local Biz](https://www.citylocalbiz.us/)<br/>
 [iTech CV](https://itechcv.com/)<br/>
 [Find 2 Local](https://www.find2local.com/)<br/>
-[Pet Carel Lover](https://www.petcarelover.com/)<br/>
+[Pet Care Lover](https://www.petcarelover.com/)<br/>
 [City Local Places](https://www.citylocalplaces.co.uk/)<br/>
 [Web Directory Hub](https://www.webdirectoryhub.com/)<br/>
 [Tuulsuite](https://tuulsuite.com)<br/>
